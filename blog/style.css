@@ -5,3 +5,28 @@ footer  {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+.admin-table {
+    width: 100%;
+}
+
+td  {
+    border: 1px solid #FF8A40;
+}
+th  {
+    border: 3px solid #FF8A40;
+}
+table   {
+    text-align: center;
+}
+
+input[type="submit"]    {
+    background-color: #FF8A40;
+}
+textarea    {
+    width: 700px;
+
+}
+input,
+textarea    {
+    border-radius: 10px;
+}
